@@ -1,4 +1,13 @@
 .estilizaçaoheader
 {
-    background:
+    background: cornflowerblue;
+    color:blueviolet
+}
+
+.imagem{
+    width: 20%;
+}
+.lista{
+display: inline-block;
+margin: 0 16px
 }
